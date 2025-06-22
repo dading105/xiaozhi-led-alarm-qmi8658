@@ -1,6 +1,12 @@
+# 小智led-alarm-qmi8658
+
+主项目: [dading105/xiaozhi-led-alarm-qmi8658: 使用esp32+ollama实现本地模型的对话以及联网+工具调用](https://github.com/dading105/xiaozhi-led-alarm-qmi8658)
+
+加入led显示功能
+
 # 小智Alarm
 
-主项目: [XuSenfeng/ai-chat-local: 使用esp32+ollama实现本地模型的对话以及联网+工具调用](https://github.com/XuSenfeng/ai-chat-local)
+参考项目: [XuSenfeng/ai-chat-local: 使用esp32+ollama实现本地模型的对话以及联网+工具调用](https://github.com/XuSenfeng/ai-chat-local)
 
 在小智AI上面进行的改版, 添加了一个可以语音控制的闹钟功能
 
